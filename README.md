@@ -1,0 +1,1 @@
+# Analysis-of-ODEs-and-PDEs-using-PINN-and-Numerical-methods
